@@ -1,5 +1,4 @@
 #include "holberton.h"
-#include "stdio.h"
 /**
 * main - Entry point
 * _putchar function
@@ -7,8 +6,8 @@
 */
 int main(void)
 {
-int i = 0;
 char ch[] = "Holberton";
+int i = 0;
 while (i <= 8)
 {
 _putchar(ch[i]);
