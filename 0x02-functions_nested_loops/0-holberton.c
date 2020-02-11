@@ -6,8 +6,8 @@
 */
 int main(void)
 {
-char ch[] = "Holberton";
 int i = 0;
+char ch[] = "Holberton";
 while (i <= 8)
 {
 _putchar(ch[i]);
