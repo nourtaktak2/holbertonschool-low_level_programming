@@ -1,7 +1,7 @@
-#ifndef _HOLBERTON_
+#ifndef _HOLBERTON_H
 #define _HOLBERTON_H
 
-postitive_or_negative();
-largest = largest_number(a, b, c);
+void postitive_or_negative(void);
+int largest_number();
 
 #endif
