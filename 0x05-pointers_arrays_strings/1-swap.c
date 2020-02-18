@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
-*swap
+*swap_int - swap of two values
 *@a:variable
 *@b:variable
 *return always (0)
