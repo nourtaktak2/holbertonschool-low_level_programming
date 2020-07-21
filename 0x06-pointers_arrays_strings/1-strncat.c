@@ -14,7 +14,7 @@ char *p;
 j = 0;
 for (i = 0 ; dest[i] != 0 ; i++)
 j++;
-if (n > l)
+if (n > j)
 n = j;
 for (i = 0 ; i < n ; i++)
 {
